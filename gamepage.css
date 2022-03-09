@@ -1,0 +1,33 @@
+#p1name{
+    margin-right: 1500px;
+}
+
+#p2name{
+    margin-right: 1500px;
+}
+
+#p1score{
+    margin-right: 1500px;
+}
+
+#p2score{
+    margin-right: 1500px;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(37, 84, 99);
+}
+
+#div{
+    background-color: white;
+    width: 700px;
+    height: 150px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+#checkbtn{
+    width: 60px;
+    height: 30px;
+}
